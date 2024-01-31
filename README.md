@@ -9,5 +9,8 @@
 • Created a graphical representation illustrating the lottery scheduler's allocation of time slices.
 • Conducted comprehensive testing using sample programs and test cases to validate scheduler functionality.
 
+
+# Modified xv6 zip file has been provided.
+
 ![image](https://github.com/Asim4513/Lottery-Scheduler/assets/85984423/96c5973c-36e3-469a-bb89-f4ddf7979b96)
 
